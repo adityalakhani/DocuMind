@@ -47,4 +47,4 @@ Follow these instructions to set up and run the project locally.
 
 ```bash
 git clone https://github.com/adityalakhani/DocuMind
-cd ai-document-analyzer
+cd DocuMind
